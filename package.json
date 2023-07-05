@@ -1,0 +1,14 @@
+{
+  "name": "simplest_bitcoin_wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wallet-address-sign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-lib": "^8.25.38"
+  }
+}
