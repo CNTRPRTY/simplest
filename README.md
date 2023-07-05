@@ -10,7 +10,7 @@ Use at your own risk, preferably with small amounts of bitcoin. Avoid using this
 
 ### Generate your key and deposit bitcoin
 
-0. basic knowledge of [NodeJS](https://www.w3schools.com/nodejs/), study / verify the [code](https://github.com/CNTRPRTY/dum/wallet-address-sign.js), then: `npm install`
+0. basic knowledge of [NodeJS](https://www.w3schools.com/nodejs/), study / verify the [code](/wallet-address-sign.js), then: `npm install`
 
 1. run wallet-address-sign.js as is to obtain your key (and store safely!)
 
